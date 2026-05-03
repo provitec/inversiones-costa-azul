@@ -1,2 +1,2 @@
-# inversiones-costa-azul
-inversiones costa azul
+# Mercancia App
+Proyecto listo para Vercel y Supabase.
